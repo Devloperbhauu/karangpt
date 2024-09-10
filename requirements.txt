@@ -1,0 +1,2 @@
+python-telegram-bot==20.0  # Ensure you use the appropriate version
+requests==2.26.0            # For making HTTP requests if needed
